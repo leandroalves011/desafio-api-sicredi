@@ -77,6 +77,9 @@ src
 
 #### OBS: Tanto Java quanto Maven devem ser adicionados ao PATH via variáveis de ambiente
 
+### Gerenciador de dependências
+Após instalar o Maven e configurar via PATH, o arquivo pom.xml está configurado para baixar todas as dependências necessárias do projeto automaticamente.
+
 ### Passo-a-passo de comandos via terminal/prompt
 
 1. Clone o repositório:
