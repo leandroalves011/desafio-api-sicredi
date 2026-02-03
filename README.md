@@ -1,6 +1,6 @@
 # Automação de Testes de API – Desafio Sicredi
 
-## 📌 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 Este projeto tem como objetivo automatizar testes da **FakeRestAPI**, uma API pública utilizada para fins de estudo e validação de serviços REST.
 
@@ -8,7 +8,7 @@ A automação foi desenvolvida como parte de um **desafio técnico**, com foco n
 
 ---
 
-## 🌐 API Testada
+## API Testada
 
 ### Base URL
 ```
@@ -34,7 +34,7 @@ Essa configuração é definida na classe `TestBaseBook`, garantindo que todos o
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java 21  
 - JUnit 5  
@@ -49,7 +49,7 @@ Essa configuração é definida na classe `TestBaseBook`, garantindo que todos o
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src
