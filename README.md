@@ -84,7 +84,7 @@ Após instalar o Maven e configurar via PATH, o arquivo pom.xml está configurad
 
 1. Clone o repositório:
 ```
-git clone <url-do-repositorio>
+git clone <https://github.com/leandroalves011/desafio-api-sicredi>
 ```
 
 2. Acesse a pasta do projeto:
